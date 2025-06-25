@@ -28,7 +28,7 @@ Place Order: api/orders/ to add orders/
 Order History: api/orders/ — Lists all orders made by the authenticated user.
               Each order includes product details, quantity, and order timestamp.
 
-
+python manage.py runserver to run django application.
 
 
 

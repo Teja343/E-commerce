@@ -1,5 +1,7 @@
 # E-commerce
 
+pip install -r requirements.txt ---> To install all requirements 
+python manage.py runserver to run django application.
 
 User Authentication: api/auth/register ---> Register Users
                      api/auth/login ---> login with registered Users
@@ -28,7 +30,7 @@ Place Order: api/orders/ to add orders/
 Order History: api/orders/ — Lists all orders made by the authenticated user.
               Each order includes product details, quantity, and order timestamp.
 
-python manage.py runserver to run django application.
+
 
 
 

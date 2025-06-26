@@ -1,6 +1,7 @@
 # E-commerce
 
 pip install -r requirements.txt ---> To install all requirements 
+
 python manage.py runserver to run django application.
 
 User Authentication: api/auth/register ---> Register Users
